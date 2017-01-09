@@ -37,14 +37,9 @@ name of the month, day of the month the rent should be paid on and day of the mo
 Example Output:
 ---------------
 
-Month | Pay Rent | Pay Energy 
------ | -------- | ----------
-July | 29th | 12th
-August | 31th | 10th
-... | ... | ...
+Month | Pay Rent | Pay Energy |
+----- | -------- | ---------- |
+July | 29th | 12th |
+August | 31th | 10th |
+... | ... | ... |
 
-
-First Header | Second Header
------------- | -------------
-Content from cell 1 | Content from cell 2
-Content in the first column | Content in the second column
