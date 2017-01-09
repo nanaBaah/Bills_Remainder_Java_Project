@@ -42,3 +42,9 @@ Example Output:
 July  | 29th | 12th
 August | 31th | 10th
 ... | ... | ...
+
+
+First Header | Second Header
+------------ | -------------
+Content from cell 1 | Content from cell 2
+Content in the first column | Content in the second column
