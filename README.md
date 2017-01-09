@@ -37,7 +37,8 @@ name of the month, day of the month the rent should be paid on and day of the mo
 Example Output:
 ---------------
 
-**Month** 		**Pay Rent** 		**Pay Energy** &nbsp;
-July 			        29th 			      12th &nbsp;
-August 			      31th 			      10th &nbsp;
-... 			        ... 			      ...
+**Month**  | **Pay Rent** | **Pay Energy** 
+------------ | -------------
+July  | 29th | 12th
+August | 31th | 10th
+... | ... | ...
