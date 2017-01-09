@@ -19,7 +19,7 @@ Requirements:
 * The rent has to be paid monthly. 
 Always at the last day of the month, unless that day is a weekend (Saturday or Sunday). 
 In this case, the rent must be paid before the weekend. 
-(You don’t have to worry about public holidays for this solution)
+(You donâ€™t have to worry about public holidays for this solution)
 
 * The energy is paid monthly too, but at the 10th of a month, unless this day is a weekend (Saturday or Sunday). 
 In this case, the money should be paid on the following Tuesday after the weekend.
@@ -37,7 +37,7 @@ name of the month, day of the month the rent should be paid on and day of the mo
 Example Output:
 ---------------
 
-**Month** 		**Pay Rent** 		**Pay Energy**
-July 			29th 			12th
-August 			31th 			10th
-... 			... 			...
+**Month** 		**Pay Rent** 		**Pay Energy** &nbsp;
+July 			        29th 			      12th &nbsp;
+August 			      31th 			      10th &nbsp;
+... 			        ... 			      ...
