@@ -38,8 +38,8 @@ Example Output:
 ---------------
 
 Month | Pay Rent | Pay Energy 
------------- | -------------
-July  | 29th | 12th
+----- | -------- | ----------
+July | 29th | 12th
 August | 31th | 10th
 ... | ... | ...
 
